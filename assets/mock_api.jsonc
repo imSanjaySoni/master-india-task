@@ -1,0 +1,46 @@
+
+{
+  "data": [
+    {
+      "gstin":"29AWGPV7107B1Z1",
+      "tradeName":"VIKAS EXPORTS",
+      "address":"RAMANAGARA",
+      "additionalAddress":"562160",
+       "constitution":"Private Limited Company",
+       "stateJurisdiction":"Ward 87",
+       "centerJurisdiction":"Range - 321",
+      "txpType":"Regular",
+      "status":"active",
+      "dtReg":"05/03/2021",
+      "dtCancel":null
+    },
+    {
+      "gstin":"13DFGPV7107B1Z1",
+      "tradeName":"Master India Private Limited",
+      "address":"K-37,floor, Mandoli Industrial Area, North East Delhi, Delhi 110093",
+      "additionalAddress":"Floor",
+       "constitution":"Private Limited Company",
+       "stateJurisdiction":"Ward 74",
+       "centerJurisdiction":"Range - 139",
+      "txpType":"Regular",
+      "status":"active",
+      "dtReg":"01/07/2017",
+      "dtCancel":null
+    }
+    , {
+      "gstin":"29AWGPV7107B1Z1",
+      "tradeName":"Batra Tours & Travel",
+      "address":"Building 265 A, Lane No-1, Raja Park, Jaipur - 302004, Near Parnami Mandir",
+      "additionalAddress":"Near Parnami Mandir",
+       "constitution":"Private Limited Company",
+       "stateJurisdiction":"Ward 27",
+       "centerJurisdiction":"Range - 101",
+      "txpType":"Regular",
+      "status":"canceled",
+      "dtReg":"05/03/2011",
+      "dtCancel":"16/10/2020"
+    }
+    
+   
+  ]
+}
